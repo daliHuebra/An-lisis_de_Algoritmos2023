@@ -7,8 +7,8 @@ public class Ejer2c {
 
 	public static void main(String[] args) {
 
-		long numero= 600851475143; //13195;
-		int divisor=2; 
+	long numero= 13195;
+	int divisor=2; 
         ArrayList<Integer> factoresPrimosObtenidos = new ArrayList<>();
         
         System.out.println("Número a evaluar: " + numero);
